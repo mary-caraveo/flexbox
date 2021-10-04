@@ -26,14 +26,14 @@ body {
 
 .content {
   background: papayawhip;
-  outline: 1px solid purple;
+  outline: 1px solid papayawhip;
   text-align: center;
   flex: 1;
 }
 
 .aside {
   background: khaki;
-  outline: 1px solid hotpink;
+  outline: 1px solid khaki;
   flex: 0 0 25%;
   text-align: center;
 }
